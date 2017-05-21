@@ -9,12 +9,14 @@ On your terminal run ```npm install```
 
 Inside the config.js replace the empty strings with your Twitter API credentials
 
-```module.exports = {
+```
+module.exports = {
     consumer_key:         '',
     consumer_secret:      '',
     access_token:         '',
     access_token_secret:  ''
-}```
+}
+```
 
 Inside bot.js replace spongemockinbot with your bot's twitter handle.
 ```const myUsername = "spongemockinbot";```
