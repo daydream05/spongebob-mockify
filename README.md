@@ -24,4 +24,4 @@ Inside bot.js replace spongemockinbot with your bot's twitter handle.
 
 Run ```npm start``` to try it locally
 
-## HEROKU Hosting (TODU)
+## HEROKU Hosting (TODO)
