@@ -22,4 +22,6 @@ Inside bot.js replace spongemockinbot with your bot's twitter handle.
 
 ```const myUsername = "spongemockinbot";```
 
-Run ```npm start```
+Run ```npm start``` to try it locally
+
+## HEROKU Hosting (TODU)
