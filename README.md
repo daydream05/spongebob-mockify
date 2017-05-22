@@ -2,7 +2,7 @@
 A twitter bot that replies with a Sponge Bob mock meme 
 
 ![Mocking Bob](/src/img/spongebob.jpg?raw=true "Sponge Bob Mocking Meme")
-
+A tWittEr BoT tHat RePlieS wiTh a SpOnge BoB mOck meMe
 ## Installation
 
 Make sure you have node installed. Clone or download the repository and initialized the directory.
