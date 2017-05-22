@@ -1,6 +1,8 @@
 # spongebob-mockify
 A twitter bot that replies with a Sponge Bob mock meme 
 
+![Mocking Bob](/src/img/spongebob.jpg?raw=true "Sponge Bob Mocking Meme")
+
 ## Installation
 
 Make sure you have node installed. Clone or download the repository and initialized the directory.
